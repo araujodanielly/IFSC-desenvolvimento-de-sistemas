@@ -1,8 +1,6 @@
 # Bem-vinda ao Repositório do Curso de Desenvolvimento de Sistemas!
 
-Olá, colegas desenvolvedores! Sou aluna do curso de Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC), localizado em Florianópolis, SC. 
-
-Estou feliz em compartilhar com vocês este repositório especial, que está sendo criado ao longo do curso.
+Olá, colegas desenvolvedores! Sou aluna do curso de Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC), localizado em Florianópolis, SC. Estou feliz em compartilhar com vocês este repositório especial, que está sendo criado ao longo do curso.
 
 Durante nossa jornada de aprendizado, estamos explorando uma variedade de tópicos interessantes e essenciais para nos tornarmos desenvolvedores. 
 Este repositório abrigará todos os materiais, projetos e exemplos relacionados aos seguintes cursos:
