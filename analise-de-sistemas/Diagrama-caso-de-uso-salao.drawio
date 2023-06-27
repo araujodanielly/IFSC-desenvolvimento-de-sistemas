@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T21:26:05.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.5.1" etag="cjmlqlkRytZUpef3Kzj6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T21:26:15.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="l-pGwvFjKebdxLFeM-N0" version="21.5.1" type="github">
   <diagram name="Página-1" id="yLcM-oZOHWtwzdsp-4Hv">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RsorMsM3u7z10HyoP_zU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-4" value="Cadastrar produtos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="422" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542" y="337" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="592" y="337" />
+            </Array>
+            <mxPoint x="592" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-7" value="&lt;div&gt;Cadastrar &lt;br&gt;&lt;/div&gt;&lt;div&gt;clientes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="422" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-8" value="Validar CPF" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="546" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542" y="465" as="sourcePoint" />
+            <mxPoint x="592" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-11" value="Cadastrar funcionários" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="422" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-12" value="atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-14" value="Agendar serviços" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="302" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-16" value="Cadastrar serviços" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="422" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528" y="480" width="86" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529" y="330" width="76" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-20" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Cancelar &lt;br&gt;Atendimento &lt;/code&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="182" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-22" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Gerenciar &lt;br&gt;Agenda&lt;/code&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="182" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RsorMsM3u7z10HyoP_zU-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsorMsM3u7z10HyoP_zU-24" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Agendar &lt;br&gt;Atendimento&lt;/code&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="182" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
